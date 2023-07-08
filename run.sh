@@ -1,0 +1,1 @@
+SERVER_ADDRESS=localhost SERVER_PORT=8000 DB_USERNAME=root DB_PASSWORD=password DB_ADDRESS=localhost DB_PORT=3306 DB_NAME=banking go run main.go
